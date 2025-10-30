@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **- ⚛️ React (components, hooks, props, routing) - 🛠 Express.js (routes, middleware, REST APIs) - 🍃 MongoDB (schema design, CRUD, mongoose)**
 
-- 📫 How to reach me **📧 personalghouse@gmail.com 📷 [Instagram](https://instagram.com/codewithghouse) | 🔗 [LinkedIn](https://linkedin.com/in/codewithghouse)**
+- 📫 How to reach me **📧 personalghouse@gmail.com 📷 [Instagram](https://instagram.com/codewithghouse) | 🔗 [LinkedIn](https://linkedin.com/in/codewithGhouse)**
 
 - ⚡ Fun fact **I write better code at midnight than I talk during the day 🦉💻**
 
