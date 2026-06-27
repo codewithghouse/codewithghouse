@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 Currently leading the development of AI-powered education software and scalable dashboard systems<br><br>👯 Open to collaborating on impactful full stack and SaaS-based projects<br><br>🤝 Interested in backend architecture, scalable systems, and product engineering<br><br>🌱 Currently sharpening problem-solving skills through DSA in Java<br><br>💬 Ask me about JavaScript, MERN stack, dashboards, APIs, and real-world product development<br><br>⚡ Fun fact: I enjoy building systems that solve actual problems, not just tutorial projects   
+<br>🔭 Currently leading the development of AI-powered education software and scalable dashboard systems<br><br>👯 Open to collaborating on impactful full stack and SaaS-based projects<br><br>🤝 Interested in backend architecture, scalable systems, and product engineering<br><br>🌱 Currently sharpening problem-solving skills through DSA in Java<br><br>💬 Ask me about JavaScript, MERN stack, dashboards, APIs, and real-world product development<br><br>⚡ Fun fact: I enjoy building systems that solve actual problems, not just tutorial projects       
 
 
 ## 🌐 Socials:
