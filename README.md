@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>🔭 Currently leading the development of AI-powered education software and scalable dashboard systems<br><br>👯 Open to collaborating on impactful full stack and SaaS-based projects<br><br>🤝 Interested in backend architecture, scalable systems, and product engineering<br><br>🌱 Currently sharpening problem-solving skills through DSA in Java<br><br>💬 Ask me about JavaScript, MERN stack, dashboards, APIs, and real-world product development<br><br>⚡ Fun fact: I enjoy building systems that solve actual problems, not just tutorial projects       
-
+    
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithghouse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewith-ghouse) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithchai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:personalghouse@gmail.com) 
